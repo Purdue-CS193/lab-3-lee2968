@@ -9,7 +9,6 @@ public class MathUtils {
         /* Return the DEFINITELY CORRECT result */
         return res;
     }
-
     /**
      * raiseToPower -- (base)^(exp)
      * Raise the number base to power exp
